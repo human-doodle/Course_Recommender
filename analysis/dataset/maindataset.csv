@@ -1,0 +1,547 @@
+,Database,C++,Analytical Skills,Python,C,Java,Csharp,R,Statistics,CSS,Html,Php,Javascript,Algorithm,Cyber Security,OS,Psyocology,SQL,Communication Skill,Software Testing,TARGET CLASS
+1,7,1,8,10,1,1,3,2,7,0,0,0,0,9,0,0,6,8,5,5,Artificial intelligence
+2,7,2,8,9,2,2,0,6,6,0,0,0,0,9,0,0,6,8,5,6,Artificial intelligence
+3,7,3,8,9,3,9,2,9,10,0,0,0,0,9,0,0,6,8,5,7,Artificial intelligence
+4,8,0,6,7,0,2,0,8,10,0,0,0,1,9,3,5,1,7,6,7,data science and analytics
+5,8,1,7,8,1,4,1,7,9,0,0,0,2,9,2,3,1,7,6,7,data science and analytics
+6,8,2,8,9,2,5,2,6,9,0,0,0,0,9,1,2,1,7,6,7,data science and analytics
+7,8,3,9,9,3,6,1,8,8,0,0,0,0,9,0,0,1,7,9,7,data science and analytics
+8,7,2,8,9,3,8,1,8,8,2,2,2,2,10,3,2,1,8,5,7,machine learning
+9,6,7,7,7,7,7,7,3,6,3,3,3,3,8,3,7,8,4,6,7,robotics
+10,6,6,8,9,5,7,5,7,6,1,1,1,1,8,5,7,9,6,8,8,human computer interaction
+11,8,6,8,7,5,8,4,8,7,4,4,4,4,7,7,5,5,9,8,6,management information system
+12,7,4,9,6,3,3,1,5,9,1,1,1,1,7,2,2,4,3,9,1,applied research and innovation
+13,3,5,5,2,5,4,2,3,1,1,1,1,1,3,9,9,0,5,7,8,network management
+14,7,3,4,3,4,4,3,2,5,4,4,4,4,5,9,7,1,7,5,8,cloud computing
+15,7,2,8,7,3,4,3,6,8,1,1,1,1,8,3,2,0,6,8,5,operation research
+16,9,4,3,4,4,4,4,1,2,3,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+17,7,3,3,3,3,3,1,2,2,1,1,1,1,2,5,2,1,4,9,9,software engineering
+18,5,5,5,4,4,4,4,1,5,1,1,1,1,5,10,8,5,7,3,4,cyber security
+19,7,7,7,8,6,7,5,7,7,1,1,1,1,9,4,4,5,5,8,8,computer vision
+20,2,8,3,7,8,7,9,1,3,3,3,2,3,8,2,6,8,3,7,8,videogame programming
+21,8,3,4,3,3,5,1,2,1,9,10,9,10,2,9,6,0,9,8,7,distributed system an web technology
+22,8,4,4,7,3,7,3,1,2,10,10,10,10,5,7,2,8,9,8,7,web design and development
+23,9,7,7,8,7,8,6,7,9,7,7,7,7,9,8,7,1,7,5,7,computer science
+24,8,2,9,8,2,8,3,8,9,0,0,2,2,8,2,2,1,8,4,7,Artificial intelligence
+25,7,2,10,10,2,5,0,9,9,2,2,2,2,10,2,4,0,8,6,7,data science and analytics
+26,8,2,8,10,3,9,0,7,7,1,1,1,1,9,2,1,1,8,7,7,machine learning
+27,5,7,7,6,7,7,5,2,6,3,3,3,3,8,3,7,8,4,6,7,robotics
+28,6,6,9,9,5,8,5,7,6,0,0,0,1,8,5,7,9,6,8,8,human computer interaction
+29,9,5,8,7,4,7,3,8,7,4,4,4,4,7,7,7,5,9,8,6,management information system
+30,5,4,9,6,3,3,0,5,9,0,0,1,0,7,2,2,4,3,9,1,applied research and innovation
+31,4,5,5,2,5,4,2,3,1,1,1,1,1,3,9,9,0,5,7,8,network management
+32,6,3,4,3,4,4,3,1,5,4,4,5,4,5,10,7,1,7,5,8,cloud computing
+33,7,2,8,7,2,4,3,6,8,1,1,1,1,8,2,2,0,6,8,5,operation research
+34,9,3,3,4,4,5,5,0,1,3,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+35,6,2,3,6,3,3,1,2,2,1,1,1,1,2,5,2,1,4,8,9,software engineering
+36,5,5,6,4,4,4,3,1,5,1,1,1,1,7,9,8,5,7,3,4,cyber security
+37,7,2,7,9,6,7,5,7,7,1,1,1,0,9,4,5,5,5,8,8,computer vision
+38,2,8,4,7,9,7,9,2,3,3,3,2,3,8,2,6,8,3,7,8,videogame programming
+39,9,1,4,3,3,4,2,2,1,8,10,9,10,2,9,4,0,9,8,7,distributed system an web technology
+40,8,3,3,7,3,7,3,0,2,10,10,10,10,5,7,2,8,9,8,7,web design and development
+41,10,8,7,8,7,8,7,7,9,7,7,7,7,9,8,7,2,7,5,7,computer science
+42,8,3,8,9,3,9,2,9,10,1,1,1,2,9,1,1,1,8,5,7,Artificial intelligence
+43,8,4,9,9,3,7,1,8,8,3,3,3,3,9,4,5,1,7,6,7,data science and analytics
+44,7,3,8,9,3,8,2,8,8,2,3,3,2,10,3,2,2,8,7,7,machine learning
+45,6,7,8,7,7,7,7,3,6,3,3,3,3,8,3,7,8,4,6,7,robotics
+46,7,6,8,9,6,7,5,7,6,1,2,1,3,8,5,7,9,6,8,8,human computer interaction
+47,8,7,8,7,5,8,4,8,7,4,4,4,4,7,7,5,5,9,8,6,management information system
+48,7,4,9,6,3,3,1,5,9,1,0,1,1,7,2,2,4,3,9,1,applied research and innovation
+49,3,5,5,2,5,4,2,3,0,1,1,1,1,3,9,9,0,6,7,8,network management
+50,7,3,5,3,4,4,3,3,5,4,4,4,5,5,9,7,1,7,5,8,cloud computing
+51,7,3,9,6,3,4,3,6,8,1,1,2,1,8,3,2,0,6,8,5,operation research
+52,9,4,3,4,4,4,4,1,2,3,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+53,7,3,3,3,3,2,1,2,2,1,1,3,1,2,5,2,1,4,9,9,software engineering
+54,5,4,5,4,4,4,4,1,5,1,1,1,2,5,10,8,5,7,3,3,cyber security
+55,7,7,8,8,6,7,5,6,6,1,1,1,1,9,4,4,5,5,8,8,computer vision
+56,2,6,3,7,8,6,9,1,3,3,3,2,2,8,2,6,8,3,7,8,videogame programming
+57,6,3,4,3,3,5,1,2,1,9,10,9,9,3,9,6,0,9,8,7,distributed system an web technology
+58,8,4,4,7,3,7,3,1,2,10,10,10,10,5,7,2,8,9,8,7,web design and development
+59,9,7,7,8,7,8,6,7,9,7,7,7,6,9,6,7,1,7,5,7,computer science
+60,8,3,8,9,3,8,2,9,10,0,0,1,0,9,0,1,1,8,4,7,Artificial intelligence
+61,9,3,8,9,2,5,2,9,8,3,3,3,3,9,3,5,0,7,5,7,data science and analytics
+62,6,1,8,9,2,8,2,8,9,1,2,1,2,10,2,3,1,8,7,7,machine learning
+63,5,6,7,7,7,7,7,2,6,2,3,2,3,9,3,7,7,5,6,7,robotics
+64,4,6,7,9,5,7,5,6,6,1,1,1,1,8,5,7,8,6,8,8,human computer interaction
+65,7,6,8,7,4,8,4,8,7,4,4,4,4,7,7,5,5,9,8,6,management information system
+66,6,4,8,6,3,3,1,4,9,0,0,0,0,7,2,2,4,3,9,1,applied research and innovation
+67,2,4,5,2,5,4,2,3,1,0,0,0,1,3,9,9,0,5,7,8,network management
+68,6,2,4,3,4,4,2,2,5,4,4,4,3,5,9,6,1,7,5,8,cloud computing
+69,6,2,8,7,2,4,3,6,8,1,1,0,1,8,3,2,0,5,8,5,operation research
+70,9,5,3,4,4,4,4,1,2,3,2,2,3,3,10,6,5,9,9,8,enterprise architecture management
+71,6,3,3,3,3,2,1,2,1,0,1,1,1,1,5,2,1,4,9,9,software engineering
+72,5,4,5,3,4,4,3,1,5,1,1,1,1,4,10,8,5,7,3,4,cyber security
+73,6,7,7,7,6,7,5,7,7,1,1,0,1,9,4,3,5,5,8,7,computer vision
+74,3,8,3,7,8,8,9,0,3,3,3,2,3,8,2,7,8,3,7,8,videogame programming
+75,7,3,4,3,3,4,1,2,1,9,10,9,10,2,9,5,0,9,8,7,distributed system an web technology
+76,7,3,4,7,3,8,3,1,2,10,10,10,9,5,8,2,8,9,8,7,web design and development
+77,8,7,7,8,7,8,6,7,9,7,7,7,7,9,8,7,1,7,5,7,computer science
+78,7,4,8,9,3,9,2,9,10,1,2,0,0,9,1,2,1,8,5,7,Artificial intelligence
+79,8,4,9,8,3,6,1,8,8,3,4,3,3,8,3,5,1,7,6,7,data science and analytics
+80,7,2,8,9,3,8,1,8,8,2,2,2,2,10,3,2,2,8,7,6,machine learning
+81,6,6,6,7,6,7,7,3,6,4,3,3,3,7,3,7,8,4,6,7,robotics
+82,6,6,8,9,5,7,5,7,6,1,2,1,1,8,5,7,9,6,8,8,human computer interaction
+83,8,6,8,7,6,8,3,8,7,4,5,4,4,7,7,5,5,9,8,6,management information system
+84,7,4,9,6,3,3,2,5,9,1,1,1,2,7,2,2,4,3,9,1,applied research and innovation
+85,3,5,3,2,5,4,2,3,1,1,1,1,1,3,9,9,0,5,7,8,network management
+86,8,3,4,3,4,5,3,2,5,4,4,4,4,5,9,7,1,7,5,8,cloud computing
+87,7,2,8,7,3,4,3,6,8,1,1,2,1,8,3,2,0,6,8,5,operation research
+88,9,4,3,4,4,4,4,1,2,3,3,4,3,3,10,7,5,9,9,8,enterprise architecture management
+89,7,3,3,3,3,3,1,2,2,1,1,3,1,2,5,2,1,4,9,9,software engineering
+90,5,5,5,4,5,4,4,1,5,1,1,1,1,5,10,8,5,7,3,4,cyber security
+91,7,7,7,8,6,8,5,7,7,1,1,1,1,9,4,4,5,5,8,8,computer vision
+92,2,8,3,7,8,7,8,1,3,3,3,2,3,8,2,6,8,3,7,8,videogame programming
+93,8,3,4,3,3,4,1,2,1,9,10,9,10,2,9,6,0,9,8,7,distributed system an web technology
+94,8,4,4,7,3,7,3,0,2,10,10,10,10,5,7,2,8,9,8,7,web design and development
+95,10,7,7,8,7,8,6,7,9,7,7,8,7,9,9,7,1,7,5,7,computer science
+96,6,2,8,9,3,10,2,10,10,1,1,1,0,9,1,0,1,7,5,7,Artificial intelligence
+97,6,3,8,9,3,10,3,10,5,2,1,1,1,9,1,1,1,8,5,7,Artificial intelligence
+98,7,3,9,9,3,7,2,9,9,4,3,3,3,9,3,5,1,7,6,7,data science and analytics
+99,6,2,8,9,3,9,2,9,9,3,2,2,2,10,3,2,1,8,7,7,machine learning
+100,5,7,7,7,7,8,8,4,7,4,3,3,3,8,3,7,8,4,6,7,robotics
+101,5,6,8,9,5,8,6,8,7,2,1,1,1,8,5,7,9,6,8,8,human computer interaction
+102,7,6,8,7,5,9,5,9,8,5,4,4,4,7,7,5,5,9,8,6,management information system
+103,6,4,9,6,3,4,2,6,10,2,1,1,1,7,2,2,4,3,9,1,applied research and innovation
+104,2,5,5,2,5,5,3,4,2,2,1,1,1,3,9,9,0,5,7,8,network management
+105,6,3,4,3,4,5,4,3,6,5,4,4,4,5,9,7,1,7,5,8,cloud computing
+106,6,2,8,7,3,5,4,7,9,2,1,1,1,8,3,2,0,6,8,5,operation research
+107,8,4,3,4,4,5,5,2,3,4,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+108,8,3,3,3,3,4,2,3,3,2,1,1,1,2,5,2,1,4,9,9,software engineering
+109,4,5,5,4,4,5,5,2,6,2,1,1,1,5,10,8,5,7,3,4,cyber security
+110,6,7,7,8,6,8,6,8,8,2,1,1,1,9,4,4,5,5,8,8,computer vision
+111,1,8,3,7,8,8,10,2,4,4,3,2,3,8,2,6,8,3,7,8,videogame programming
+112,7,3,4,3,3,6,2,3,2,10,10,9,10,2,9,6,0,9,8,7,distributed system an web technology
+113,7,4,4,7,3,8,4,2,3,5,10,10,10,5,7,2,8,9,8,7,web design and development
+114,8,7,7,8,7,9,7,8,10,8,7,7,7,9,8,7,1,7,5,7,computer science
+115,6,1,8,7,1,8,3,8,9,0,0,2,2,8,2,2,1,8,4,7,Artificial intelligence
+116,5,1,9,9,1,5,0,9,9,2,2,2,2,10,2,4,0,8,6,7,data science and analytics
+117,6,1,7,9,2,9,0,7,7,1,1,1,1,9,2,1,1,8,7,7,machine learning
+118,3,6,6,5,6,7,5,2,6,3,3,3,3,8,3,7,8,4,6,7,robotics
+119,4,5,8,8,4,8,5,7,6,0,0,0,1,8,5,7,9,6,8,8,human computer interaction
+120,7,4,7,6,3,7,3,8,7,4,4,4,4,7,7,7,5,9,8,6,management information system
+121,3,3,8,5,2,3,0,5,9,0,0,1,0,7,2,2,4,3,9,1,applied research and innovation
+122,2,4,4,1,4,4,2,3,1,1,1,1,1,3,9,9,0,5,7,8,network management
+123,4,2,3,2,3,4,3,1,5,4,4,5,4,5,10,7,1,7,5,8,cloud computing
+124,5,1,7,6,1,4,3,6,8,1,1,1,1,8,2,2,0,6,8,5,operation research
+125,7,2,2,3,3,5,5,0,1,3,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+126,4,1,2,5,2,3,1,2,2,1,1,1,1,2,5,2,1,4,8,9,software engineering
+127,4,4,5,3,3,4,3,1,5,1,1,1,1,7,9,8,5,7,3,4,cyber security
+128,6,1,5,8,5,7,5,7,7,1,1,1,0,9,4,5,5,5,8,8,computer vision
+129,1,7,2,6,8,7,9,2,3,3,3,2,3,8,2,6,8,3,7,8,videogame programming
+130,8,0,2,2,2,4,2,2,1,8,10,9,10,2,9,4,0,9,8,7,distributed system an web technology
+131,7,2,1,6,2,7,3,0,2,10,10,10,10,5,7,2,8,9,8,7,web design and development
+132,9,7,5,7,6,8,7,7,9,7,7,7,7,9,8,7,2,7,5,7,computer science
+133,7,2,6,8,2,9,2,9,10,1,1,1,2,9,1,1,1,8,5,7,Artificial intelligence
+134,7,3,7,8,2,7,1,8,8,3,3,3,3,9,4,5,1,7,6,7,data science and analytics
+135,6,2,6,8,2,8,2,8,8,2,3,3,2,10,3,2,2,8,7,7,machine learning
+136,5,6,6,6,6,7,7,3,6,3,3,3,3,8,3,7,8,4,6,7,robotics
+137,6,5,6,8,5,7,5,7,6,1,2,1,3,8,5,7,9,6,8,8,human computer interaction
+138,7,6,6,6,4,8,4,8,7,4,4,4,4,7,7,5,5,9,8,6,management information system
+139,6,3,8,5,3,3,1,5,9,1,0,1,1,7,2,2,4,3,9,1,applied research and innovation
+140,2,4,4,1,5,4,2,3,0,1,1,1,1,3,9,9,0,6,7,8,network management
+141,6,2,4,2,4,4,3,3,5,4,4,4,5,5,9,7,1,7,5,8,cloud computing
+142,6,2,8,5,3,4,3,6,8,1,1,2,1,8,3,2,0,6,8,5,operation research
+143,8,3,2,3,4,4,4,1,2,3,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+144,6,2,2,2,2,1,1,2,2,1,1,3,1,2,5,2,1,4,9,9,software engineering
+145,4,3,4,3,3,3,4,1,5,1,1,1,2,5,10,8,5,7,3,3,cyber security
+146,6,6,7,7,5,6,5,6,6,1,1,1,1,9,4,4,5,5,8,8,computer vision
+147,1,5,2,6,7,5,9,1,3,3,3,2,2,8,2,6,8,3,7,8,videogame programming
+148,5,2,3,2,2,4,1,2,1,9,10,9,9,3,9,6,0,9,8,7,distributed system an web technology
+149,7,3,3,6,2,6,3,1,2,10,10,10,10,5,7,2,8,9,8,7,web design and development
+150,8,6,6,7,6,7,6,7,9,7,7,7,6,9,6,7,1,7,5,7,computer science
+151,7,2,7,8,2,7,2,9,10,0,0,1,0,9,0,1,1,8,4,7,Artificial intelligence
+152,8,2,7,8,1,4,2,9,8,3,3,3,3,9,3,5,0,7,5,7,data science and analytics
+153,5,0,7,8,1,7,2,8,9,1,2,1,2,10,2,3,1,8,7,7,machine learning
+154,4,5,6,6,6,6,7,2,6,2,3,2,3,9,3,7,7,5,6,7,robotics
+155,3,5,6,8,4,6,5,6,6,1,1,1,1,8,5,7,8,6,8,8,human computer interaction
+156,6,5,7,6,3,7,4,8,7,4,4,4,4,7,7,5,5,9,8,6,management information system
+157,5,3,7,5,2,2,1,4,9,0,0,0,0,7,2,2,4,3,9,1,applied research and innovation
+158,1,3,4,1,4,3,2,3,1,0,0,0,1,3,9,9,0,5,7,8,network management
+159,5,1,3,2,3,3,2,2,5,4,4,4,3,5,9,6,1,7,5,8,cloud computing
+160,5,1,7,6,1,3,3,6,8,1,1,0,1,8,3,2,0,5,8,5,operation research
+161,8,4,2,3,3,3,4,1,2,3,2,2,3,3,10,6,5,9,9,8,enterprise architecture management
+162,5,2,2,2,2,1,1,2,1,0,1,1,1,1,5,2,1,4,9,9,software engineering
+163,4,3,4,2,3,3,3,1,5,1,1,1,1,4,10,8,5,7,3,4,cyber security
+164,5,6,6,6,5,6,5,7,7,1,1,0,1,9,4,3,5,5,8,7,computer vision
+165,2,7,2,6,7,7,9,0,3,3,3,2,3,8,2,7,8,3,7,8,videogame programming
+166,6,2,3,2,2,3,1,2,1,9,10,9,10,2,9,5,0,9,8,7,distributed system an web technology
+167,6,2,3,6,2,7,3,1,2,10,10,10,9,5,8,2,8,9,8,7,web design and development
+168,7,6,6,7,6,7,6,7,9,7,7,7,7,9,8,7,1,7,5,7,computer science
+169,7,4,8,9,3,8,1,7,9,0,2,0,0,9,1,2,1,8,5,7,Artificial intelligence
+170,8,4,9,8,3,5,0,6,7,2,4,3,3,8,3,5,1,7,6,7,data science and analytics
+171,7,2,8,9,3,7,0,6,7,1,2,2,2,10,3,2,2,8,7,6,machine learning
+172,6,6,6,7,6,6,6,1,5,3,3,3,3,7,3,7,8,4,6,7,robotics
+173,6,6,8,9,5,6,4,5,5,0,2,1,1,8,5,7,9,6,8,8,human computer interaction
+174,8,6,8,7,6,7,2,6,6,3,5,4,4,7,7,5,5,9,8,6,management information system
+175,7,4,9,6,3,2,1,3,8,0,1,1,2,7,2,2,4,3,9,1,applied research and innovation
+176,3,5,3,2,5,3,1,1,0,0,1,1,1,3,9,9,0,5,7,8,network management
+177,8,3,4,3,4,4,2,0,4,3,4,4,4,5,9,7,1,7,5,8,cloud computing
+178,7,2,8,7,3,3,2,4,7,0,1,2,1,8,3,2,0,6,8,5,operation research
+179,9,4,3,4,4,3,3,0,1,2,3,4,3,3,10,7,5,9,9,8,enterprise architecture management
+180,7,3,3,3,3,2,0,0,1,0,1,3,1,2,5,2,1,4,9,9,software engineering
+181,5,5,5,4,5,3,3,0,4,0,1,1,1,5,10,8,5,7,3,4,cyber security
+182,7,7,7,8,6,7,4,5,6,0,1,1,1,9,4,4,5,5,8,8,computer vision
+183,2,8,3,7,8,6,7,1,2,2,3,2,3,8,2,6,8,3,7,8,videogame programming
+184,8,3,4,3,3,3,0,0,0,8,10,9,10,2,9,6,0,9,8,7,distributed system an web technology
+185,8,4,4,7,3,6,2,0,1,9,10,10,10,5,7,2,8,9,8,7,web design and development
+186,10,7,7,8,7,7,5,7,8,6,7,8,7,9,9,7,1,7,5,7,computer science
+187,7,3,8,9,3,8,1,7,9,0,1,1,1,9,1,1,1,8,5,7,Artificial intelligence
+188,8,3,9,9,3,5,0,6,7,2,3,3,3,9,3,5,1,7,6,7,data science and analytics
+189,7,2,8,9,3,7,0,6,7,0,2,2,2,10,3,2,1,8,7,7,machine learning
+190,6,7,7,7,7,6,6,1,5,1,3,3,3,8,3,7,8,4,6,7,robotics
+191,6,6,8,9,5,6,4,5,5,1,1,1,1,8,5,7,9,6,8,8,human computer interaction
+192,8,6,8,7,5,7,3,5,6,2,4,4,4,7,7,5,5,9,8,6,management information system
+193,7,4,9,6,3,2,0,5,8,0,1,1,1,7,2,2,4,3,9,1,applied research and innovation
+194,3,5,5,2,5,3,1,1,0,0,1,1,1,3,9,9,0,5,7,8,network management
+195,7,3,4,3,4,3,2,0,4,2,4,4,4,5,9,7,1,7,5,8,cloud computing
+196,7,2,8,7,3,3,2,4,7,0,1,1,1,8,3,2,0,6,8,5,operation research
+197,9,4,3,4,4,3,3,1,1,1,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+198,7,3,3,3,3,2,0,1,1,0,1,1,1,2,5,2,1,4,9,9,software engineering
+199,5,5,5,4,4,3,3,0,4,0,1,1,1,5,10,8,5,7,3,4,cyber security
+200,7,7,7,8,6,6,4,6,6,0,1,1,1,9,4,4,5,5,8,8,computer vision
+201,2,8,3,7,8,6,8,0,2,1,3,2,3,8,2,6,8,3,7,8,videogame programming
+202,8,3,4,3,3,4,0,1,0,7,10,9,10,2,9,6,0,9,8,7,distributed system an web technology
+203,8,4,4,7,3,6,2,0,1,8,10,10,10,5,7,2,8,9,8,7,web design and development
+204,9,7,7,8,7,7,5,6,8,7,7,7,7,9,8,7,1,7,5,7,computer science
+205,8,2,9,8,2,8,3,8,9,0,0,1,1,7,1,2,1,8,4,7,Artificial intelligence
+206,7,2,10,10,2,5,0,9,9,2,2,1,1,9,1,4,0,8,6,7,data science and analytics
+207,8,2,8,10,3,9,0,7,7,1,1,0,0,8,1,1,1,8,7,7,machine learning
+208,5,7,7,6,7,7,5,2,6,3,1,2,2,7,2,7,8,4,6,7,robotics
+209,6,6,9,9,5,8,5,7,6,0,0,0,0,7,4,7,9,6,8,8,human computer interaction
+210,9,5,8,7,4,7,3,8,7,4,2,3,3,6,6,7,5,9,8,6,management information system
+211,5,4,9,6,3,3,0,5,9,0,0,0,0,6,1,2,4,3,9,1,applied research and innovation
+212,4,5,5,2,5,4,2,3,1,1,0,0,0,2,8,9,0,5,7,8,network management
+213,6,3,4,3,4,4,3,1,5,4,2,4,3,4,9,7,1,7,5,8,cloud computing
+214,7,2,8,7,2,4,3,6,8,1,1,0,0,7,1,2,0,6,8,5,operation research
+215,9,3,3,4,4,5,5,0,1,3,3,2,2,2,9,7,5,9,9,8,enterprise architecture management
+216,6,2,3,6,3,3,1,2,2,1,1,0,0,1,4,2,1,4,8,9,software engineering
+217,5,5,6,4,4,4,3,1,5,1,1,0,0,6,8,8,5,7,3,4,cyber security
+218,7,2,7,9,6,7,5,7,7,1,1,0,0,8,3,5,5,5,8,8,computer vision
+219,2,8,4,7,9,7,9,2,3,3,3,1,2,7,1,6,8,3,7,8,videogame programming
+220,9,1,4,3,3,4,2,2,1,8,8,8,9,1,8,4,0,9,8,7,distributed system an web technology
+221,8,3,3,7,3,7,3,0,2,10,8,9,9,4,6,2,8,9,8,7,web design and development
+222,10,8,7,8,7,8,7,7,9,7,7,6,6,8,7,7,2,7,5,7,computer science
+223,8,3,8,9,3,9,2,9,10,1,0,0,1,8,0,1,1,8,5,7,Artificial intelligence
+224,8,4,9,9,3,7,1,8,8,3,2,2,2,8,3,5,1,7,6,7,data science and analytics
+225,7,3,8,9,3,8,2,8,8,2,2,2,1,9,2,2,2,8,7,7,machine learning
+226,6,7,8,7,7,7,7,3,6,3,2,2,2,7,2,7,8,4,6,7,robotics
+227,7,6,8,9,6,7,5,7,6,1,1,0,2,7,4,7,9,6,8,8,human computer interaction
+228,8,7,8,7,5,8,4,8,7,4,3,3,3,6,6,5,5,9,8,6,management information system
+229,7,4,9,6,3,3,1,5,9,1,0,0,0,6,1,2,4,3,9,1,applied research and innovation
+230,3,5,5,2,5,4,2,3,0,1,0,0,0,2,8,9,0,6,7,8,network management
+231,7,3,5,3,4,4,3,3,5,4,3,3,4,4,8,7,1,7,5,8,cloud computing
+232,7,3,9,6,3,4,3,6,8,1,0,1,0,7,2,2,0,6,8,5,operation research
+233,9,4,3,4,4,4,4,1,2,3,2,2,2,2,9,7,5,9,9,8,enterprise architecture management
+234,7,3,3,3,3,2,1,2,2,1,0,2,0,1,4,2,1,4,9,9,software engineering
+235,5,4,5,4,4,4,4,1,5,1,0,0,1,4,9,8,5,7,3,3,cyber security
+236,7,7,8,8,6,7,5,6,6,1,0,0,0,8,3,4,5,5,8,8,computer vision
+237,2,6,3,7,8,6,9,1,3,3,2,1,1,7,1,6,8,3,7,8,videogame programming
+238,6,3,4,3,3,5,1,2,1,9,9,8,8,2,8,6,0,9,8,7,distributed system an web technology
+239,8,4,4,7,3,7,3,1,2,10,9,9,9,4,6,2,8,9,8,7,web design and development
+240,9,7,7,8,7,8,6,7,9,7,6,6,5,8,5,7,1,7,5,7,computer science
+241,8,3,8,9,3,8,2,9,10,0,0,0,0,7,0,1,1,8,4,7,Artificial intelligence
+242,9,3,8,9,2,5,2,9,8,3,2,2,2,7,2,5,0,7,5,7,data science and analytics
+243,6,1,8,9,2,8,2,8,9,1,1,0,1,8,1,3,1,8,7,7,machine learning
+244,5,6,7,7,7,7,7,2,6,2,2,1,2,7,2,7,7,5,6,7,robotics
+245,4,6,7,9,5,7,5,6,6,1,0,0,0,6,4,7,8,6,8,8,human computer interaction
+246,7,6,8,7,4,8,4,8,7,4,3,3,3,5,6,5,5,9,8,6,management information system
+247,6,4,8,6,3,3,1,4,9,0,0,0,0,5,1,2,4,3,9,1,applied research and innovation
+248,2,4,5,2,5,4,2,3,1,0,0,0,0,1,8,9,0,5,7,8,network management
+249,6,2,4,3,4,4,2,2,5,4,3,3,2,3,8,6,1,7,5,8,cloud computing
+250,6,2,8,7,2,4,3,6,8,1,0,0,0,6,2,2,0,5,8,5,operation research
+251,9,5,3,4,4,4,4,1,2,3,1,1,2,1,9,6,5,9,9,8,enterprise architecture management
+252,6,3,3,3,3,2,1,2,1,0,0,0,0,0,4,2,1,4,9,9,software engineering
+253,5,4,5,3,4,4,3,1,5,1,0,0,0,2,9,8,5,7,3,4,cyber security
+254,6,7,7,7,6,7,5,7,7,1,0,0,0,7,3,3,5,5,8,7,computer vision
+255,3,8,3,7,8,8,9,0,3,3,2,1,2,6,1,7,8,3,7,8,videogame programming
+256,7,3,4,3,3,4,1,2,1,9,9,8,9,0,8,5,0,9,8,7,distributed system an web technology
+257,7,3,4,7,3,8,3,1,2,10,9,9,8,3,7,2,8,9,8,7,web design and development
+258,8,7,7,8,7,8,6,7,9,7,6,6,6,7,7,7,1,7,5,7,computer science
+259,7,4,8,9,3,9,2,9,10,1,2,0,0,8,0,3,2,9,6,7,Artificial intelligence
+260,8,4,9,8,3,6,1,8,8,3,4,3,3,8,2,6,2,8,7,7,data science and analytics
+261,7,2,8,9,3,8,1,8,8,2,2,2,2,10,2,3,3,9,8,6,machine learning
+262,6,6,6,7,6,7,7,3,6,4,3,3,3,7,3,3,9,5,7,7,robotics
+263,6,6,8,9,5,7,5,7,6,1,2,1,1,8,5,9,10,7,9,8,human computer interaction
+264,8,6,8,7,6,8,3,8,7,4,5,4,4,7,7,5,6,10,9,6,management information system
+265,7,4,9,6,3,3,2,5,9,1,1,1,2,7,2,2,5,4,10,1,applied research and innovation
+266,3,5,3,2,5,4,2,3,1,1,1,1,1,3,9,9,1,6,8,8,network management
+267,8,3,4,3,4,5,3,2,5,4,4,4,4,5,9,8,2,8,6,8,cloud computing
+268,7,2,8,7,3,4,3,6,8,1,1,2,1,8,3,2,1,7,9,5,operation research
+269,9,4,3,4,4,4,4,1,2,3,3,4,3,3,10,7,6,10,10,8,enterprise architecture management
+270,7,3,3,3,3,3,1,2,2,1,1,3,1,2,5,2,2,5,10,9,software engineering
+271,5,5,5,4,5,4,4,1,5,1,1,1,1,5,10,8,6,8,4,4,cyber security
+272,7,7,7,8,6,8,5,7,7,1,1,1,1,9,4,4,6,6,9,8,computer vision
+273,2,8,3,7,8,7,8,1,3,3,3,2,3,8,2,6,9,4,8,8,videogame programming
+274,8,3,4,3,3,4,1,2,1,9,10,9,10,2,9,6,1,10,9,7,distributed system an web technology
+275,8,4,4,7,3,7,3,0,2,10,10,10,10,5,7,2,9,10,9,7,web design and development
+276,10,7,7,8,7,8,6,7,9,7,7,8,7,9,9,7,2,8,6,7,computer science
+277,7,3,8,9,3,9,2,9,10,1,1,1,1,9,1,2,1,9,6,7,Artificial intelligence
+278,8,3,9,9,3,6,1,8,8,3,3,3,3,9,3,6,1,8,7,7,data science and analytics
+279,7,2,8,9,3,8,1,8,8,2,2,2,2,10,3,3,1,9,8,7,machine learning
+280,6,7,7,7,7,7,7,3,6,3,3,3,3,8,3,8,8,5,7,7,robotics
+281,6,6,8,9,5,7,5,7,6,1,1,1,1,8,5,8,9,7,9,8,human computer interaction
+282,8,6,8,7,5,8,4,8,7,4,4,4,4,7,7,6,5,10,9,6,management information system
+283,7,4,9,6,3,3,1,5,9,1,1,1,1,7,2,3,4,4,10,1,applied research and innovation
+284,3,5,5,2,5,4,2,3,1,1,1,1,1,3,9,10,2,6,8,8,network management
+285,7,3,4,3,4,4,3,2,5,4,4,4,4,5,9,8,1,8,6,8,cloud computing
+286,7,2,8,7,3,4,3,6,8,1,1,1,1,8,3,3,2,7,9,5,operation research
+287,9,4,3,4,4,4,4,1,2,3,3,3,3,3,10,8,5,10,10,8,enterprise architecture management
+288,7,3,3,3,3,3,1,2,2,1,1,1,1,2,5,3,1,5,10,9,software engineering
+289,5,5,5,4,4,4,4,1,5,1,1,1,1,5,10,9,5,8,4,4,cyber security
+290,7,7,7,8,6,7,5,7,7,1,1,1,1,9,4,5,5,6,9,8,computer vision
+291,2,8,3,7,8,7,9,1,3,3,3,2,3,8,2,7,8,4,8,8,videogame programming
+292,8,3,4,3,3,5,1,2,1,9,10,9,10,2,9,7,2,10,9,7,distributed system an web technology
+293,8,4,4,7,3,7,3,1,2,10,10,10,10,5,7,3,8,10,9,7,web design and development
+294,9,7,7,8,7,8,6,7,9,7,7,7,7,9,8,8,1,7,6,7,computer science
+295,8,2,9,8,2,8,3,8,9,0,0,2,3,9,3,2,1,7,4,7,Artificial intelligence
+296,7,2,10,10,2,5,0,9,9,2,2,2,3,5,3,4,0,7,6,7,data science and analytics
+297,8,2,8,10,3,9,0,7,7,1,1,1,2,10,3,1,1,7,7,7,machine learning
+298,5,7,7,6,7,7,5,2,6,3,3,3,4,9,4,7,8,3,6,7,robotics
+299,6,6,9,9,5,8,5,7,6,0,0,0,2,9,6,7,9,5,8,8,human computer interaction
+300,9,5,8,7,4,7,3,8,7,4,4,4,5,8,8,7,5,8,8,6,management information system
+301,5,4,9,6,3,3,0,5,9,0,0,1,1,8,3,2,4,2,9,1,applied research and innovation
+302,4,5,5,2,5,4,2,3,1,1,1,1,2,4,10,9,0,4,7,8,network management
+303,6,3,4,3,4,4,3,1,5,4,4,5,5,6,5,7,1,6,5,8,cloud computing
+304,7,2,8,7,2,4,3,6,8,1,1,1,2,9,3,2,0,5,8,5,operation research
+305,9,3,3,4,4,5,5,0,1,3,3,3,4,4,5,7,5,8,9,8,enterprise architecture management
+306,6,2,3,6,3,3,1,2,2,1,1,1,2,3,6,2,1,3,8,9,software engineering
+307,5,5,6,4,4,4,3,1,5,1,1,1,2,8,10,8,5,6,3,4,cyber security
+308,7,2,7,9,6,7,5,7,7,1,1,1,1,10,5,5,5,4,8,8,computer vision
+309,2,8,4,7,9,7,9,2,3,3,3,2,4,9,3,6,8,2,7,8,videogame programming
+310,9,1,4,3,3,4,2,2,1,8,10,9,5,3,10,4,0,8,8,7,distributed system an web technology
+311,8,3,3,7,3,7,3,0,2,10,10,10,5,6,8,2,8,8,8,7,web design and development
+312,10,8,7,8,7,8,7,7,9,7,7,7,8,10,9,7,2,6,5,7,computer science
+313,8,3,8,9,3,9,2,9,10,1,1,1,3,10,2,1,1,8,6,7,Artificial intelligence
+314,8,4,9,9,3,7,1,8,8,3,3,3,4,10,5,5,1,7,7,7,data science and analytics
+315,7,3,8,9,3,8,2,8,8,2,3,3,3,5,4,2,2,8,6,7,machine learning
+316,6,7,8,7,7,7,7,3,6,3,3,3,4,9,4,7,8,4,5,7,robotics
+317,7,6,8,9,6,7,5,7,6,1,2,1,4,9,6,7,9,6,7,8,human computer interaction
+318,8,7,8,7,5,8,4,8,7,4,4,4,5,8,8,5,5,9,7,6,management information system
+319,7,4,9,6,3,3,1,5,9,1,0,1,2,8,3,2,4,3,8,1,applied research and innovation
+320,3,5,5,2,5,4,2,3,0,1,1,1,2,4,10,9,0,6,6,8,network management
+321,7,3,5,3,4,4,3,3,5,4,4,4,6,6,10,7,1,7,4,8,cloud computing
+322,7,3,9,6,3,4,3,6,8,1,1,2,2,9,4,2,0,6,7,5,operation research
+323,9,4,3,4,4,4,4,1,2,3,3,3,4,4,5,7,5,9,8,8,enterprise architecture management
+324,7,3,3,3,3,2,1,2,2,1,1,3,2,3,6,2,1,4,8,9,software engineering
+325,5,4,5,4,4,4,4,1,5,1,1,1,3,6,5,8,5,7,2,3,cyber security
+326,7,7,8,8,6,7,5,6,6,1,1,1,2,10,5,4,5,5,7,8,computer vision
+327,2,6,3,7,8,6,9,1,3,3,3,2,3,9,3,6,8,3,6,8,videogame programming
+328,6,3,4,3,3,5,1,2,1,9,10,9,10,4,10,6,0,9,7,7,distributed system an web technology
+329,8,4,4,7,3,7,3,1,2,10,10,10,5,6,8,2,8,9,7,7,web design and development
+330,9,7,7,8,7,8,6,7,9,7,7,7,7,10,7,7,1,7,6,7,computer science
+331,8,3,8,9,3,8,2,9,10,1,1,2,0,9,0,1,1,8,4,8,Artificial intelligence
+332,9,3,8,9,2,5,2,9,8,4,4,4,3,9,3,5,0,7,5,8,data science and analytics
+333,6,1,8,9,2,8,2,8,9,2,3,2,2,10,2,3,1,8,7,8,machine learning
+334,5,6,7,7,7,7,7,2,6,3,4,3,3,9,3,7,7,5,6,7,robotics
+335,4,6,7,9,5,7,5,6,6,2,2,2,1,8,5,7,8,6,8,7,human computer interaction
+336,7,6,8,7,4,8,4,8,7,5,5,5,4,7,7,5,5,9,8,5,management information system
+337,6,4,8,6,3,3,1,4,9,1,1,1,0,7,2,2,4,3,9,2,applied research and innovation
+338,2,4,5,2,5,4,2,3,1,1,1,1,1,3,9,9,0,5,7,7,network management
+339,6,2,4,3,4,4,2,2,5,5,5,5,3,5,9,6,1,7,5,7,cloud computing
+340,6,2,8,7,2,4,3,6,8,2,2,1,1,8,3,2,0,5,8,4,operation research
+341,9,5,3,4,4,4,4,1,2,4,3,3,3,3,10,6,5,9,9,7,enterprise architecture management
+342,6,3,3,3,3,2,1,2,1,1,2,2,1,1,5,2,1,4,9,8,software engineering
+343,5,4,5,3,4,4,3,1,5,2,2,2,1,4,10,8,5,7,3,3,cyber security
+344,6,7,7,7,6,7,5,7,7,2,2,1,1,9,4,3,5,5,8,8,computer vision
+345,3,8,3,7,8,8,9,0,3,4,4,3,3,8,2,7,8,3,7,7,videogame programming
+346,7,3,4,3,3,4,1,2,1,10,5,10,10,2,9,5,0,9,8,6,distributed system an web technology
+347,7,3,4,7,3,8,3,1,2,5,5,5,9,5,8,2,8,9,8,6,web design and development
+348,8,7,7,8,7,8,6,7,9,8,8,8,7,9,8,7,1,7,5,6,computer science
+349,8,5,8,9,3,9,2,9,10,2,3,1,0,9,1,2,1,8,5,7,Artificial intelligence
+350,9,5,9,8,3,6,1,8,8,4,5,4,3,8,3,5,1,7,6,7,data science and analytics
+351,8,3,8,9,3,8,1,8,8,3,3,3,2,10,3,2,2,8,7,6,machine learning
+352,7,7,6,7,6,7,7,3,6,5,4,4,3,7,3,7,8,4,6,7,robotics
+353,7,7,8,9,5,7,5,7,6,2,3,2,1,8,5,7,9,6,8,8,human computer interaction
+354,9,7,8,7,6,8,3,8,7,5,6,5,4,7,7,5,5,9,8,6,management information system
+355,8,5,9,6,3,3,2,5,9,2,2,2,2,7,2,2,4,3,9,1,applied research and innovation
+356,2,6,3,2,5,4,2,3,1,2,2,2,1,3,9,9,0,5,7,8,network management
+357,9,2,4,3,4,5,3,2,5,5,5,5,4,5,9,7,1,7,5,8,cloud computing
+358,8,3,8,7,3,4,3,6,8,2,2,3,1,8,3,2,0,6,8,5,operation research
+359,10,5,3,4,4,4,4,1,2,4,4,5,3,3,10,7,5,9,9,8,enterprise architecture management
+360,8,4,3,3,3,3,1,2,2,2,2,4,1,2,5,2,1,4,9,9,software engineering
+361,6,6,5,4,5,4,4,1,5,2,2,2,1,5,10,8,5,7,3,4,cyber security
+362,8,8,7,8,6,8,5,7,7,2,2,2,1,9,4,4,5,5,8,8,computer vision
+363,3,9,3,7,8,7,8,1,3,4,4,3,3,8,2,6,8,3,7,8,videogame programming
+364,9,4,4,3,3,4,1,2,1,10,5,10,10,2,9,6,0,9,8,7,distributed system an web technology
+365,9,5,4,7,3,7,3,0,2,5,5,5,10,5,7,2,8,9,8,7,web design and development
+366,9,8,7,8,7,8,6,7,9,8,8,9,7,9,9,7,1,7,5,7,computer science
+367,7,3,9,10,3,9,3,10,5,1,1,1,1,9,1,1,1,8,5,7,Artificial intelligence
+368,8,3,10,10,3,6,2,9,9,3,3,3,3,9,3,5,1,7,6,7,data science and analytics
+369,7,2,9,10,3,8,2,9,9,2,2,2,2,10,3,2,1,8,7,7,machine learning
+370,6,7,8,8,7,7,8,4,7,3,3,3,3,8,3,7,8,4,6,7,robotics
+371,6,6,9,10,5,7,6,8,7,1,1,1,1,8,5,7,9,6,8,8,human computer interaction
+372,8,6,9,8,5,8,5,9,8,4,4,4,4,7,7,5,5,9,8,6,management information system
+373,7,4,10,7,3,3,2,6,10,1,1,1,1,7,2,2,4,3,9,1,applied research and innovation
+374,3,5,6,3,5,4,3,4,2,1,1,1,1,3,9,9,0,5,7,8,network management
+375,7,3,5,4,4,4,4,3,6,4,4,4,4,5,9,7,1,7,5,8,cloud computing
+376,7,2,9,8,3,4,4,7,9,1,1,1,1,8,3,2,0,6,8,5,operation research
+377,9,4,4,5,4,4,5,2,3,3,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+378,7,3,4,4,3,3,2,3,3,1,1,1,1,2,5,2,1,4,9,9,software engineering
+379,5,5,6,5,4,4,5,2,6,1,1,1,1,5,10,8,5,7,3,4,cyber security
+380,7,7,8,9,6,7,6,8,8,1,1,1,1,9,4,4,5,5,8,8,computer vision
+381,2,8,4,8,8,7,10,2,4,3,3,2,3,8,2,6,8,3,7,8,videogame programming
+382,8,3,5,4,3,5,2,3,2,9,10,9,10,2,9,6,0,9,8,7,distributed system an web technology
+383,8,4,5,8,3,7,4,2,3,10,10,10,10,5,7,2,8,9,8,7,web design and development
+384,9,7,8,9,7,8,7,8,10,7,7,7,7,9,8,7,1,7,5,7,computer science
+385,8,2,9,8,3,9,4,9,10,0,0,2,2,8,2,2,1,8,4,7,Artificial intelligence
+386,7,2,10,10,3,6,1,10,10,2,2,2,2,10,2,4,0,8,6,7,data science and analytics
+387,8,2,8,10,4,10,1,8,8,1,1,1,1,9,2,1,1,8,7,7,machine learning
+388,5,7,7,6,8,8,6,3,7,3,3,3,3,8,3,7,8,4,6,7,robotics
+389,6,6,9,9,6,9,6,8,7,0,0,0,1,8,5,7,9,6,8,8,human computer interaction
+390,9,5,8,7,5,8,4,9,8,4,4,4,4,7,7,7,5,9,8,6,management information system
+391,5,4,9,6,4,4,1,6,10,0,0,1,0,7,2,2,4,3,9,1,applied research and innovation
+392,4,5,5,2,6,5,3,4,2,1,1,1,1,3,9,9,0,5,7,8,network management
+393,6,3,4,3,5,5,4,2,6,4,4,5,4,5,10,7,1,7,5,8,cloud computing
+394,7,2,8,7,3,5,4,7,9,1,1,1,1,8,2,2,0,6,8,5,operation research
+395,9,3,3,4,5,6,6,1,2,3,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+396,6,2,3,6,4,4,2,3,3,1,1,1,1,2,5,2,1,4,8,9,software engineering
+397,5,5,6,4,5,5,4,2,6,1,1,1,1,7,9,8,5,7,3,4,cyber security
+398,7,2,7,9,7,8,6,8,8,1,1,1,0,9,4,5,5,5,8,8,computer vision
+399,2,8,4,7,10,8,10,3,4,3,3,2,3,8,2,6,8,3,7,8,videogame programming
+400,9,1,4,3,4,5,3,3,2,8,10,9,10,2,9,4,0,9,8,7,distributed system an web technology
+401,8,3,3,7,4,8,4,1,3,10,10,10,10,5,7,2,8,9,8,7,web design and development
+402,10,8,7,8,8,9,8,8,10,7,7,7,7,9,8,7,2,7,5,7,computer science
+403,8,3,8,10,4,10,3,10,10,1,1,1,2,9,1,1,1,8,5,7,Artificial intelligence
+404,8,4,9,10,4,8,2,9,8,3,3,3,3,9,4,5,1,7,6,7,data science and analytics
+405,7,3,8,10,4,9,3,9,8,2,3,3,2,10,3,2,2,8,7,7,machine learning
+406,6,7,8,8,8,8,8,4,6,3,3,3,3,8,3,7,8,4,6,7,robotics
+407,7,6,8,10,7,8,6,8,6,1,2,1,3,8,5,7,9,6,8,8,human computer interaction
+408,8,7,8,8,6,9,5,9,7,4,4,4,4,7,7,5,5,9,8,6,management information system
+409,7,4,9,7,4,4,2,6,9,1,0,1,1,7,2,2,4,3,9,1,applied research and innovation
+410,3,5,5,3,6,5,3,4,0,1,1,1,1,3,9,9,0,6,7,8,network management
+411,7,3,5,4,5,5,4,4,5,4,4,4,5,5,9,7,1,7,5,8,cloud computing
+412,7,3,9,7,4,5,4,7,8,1,1,2,1,8,3,2,0,6,8,5,operation research
+413,9,4,3,5,5,5,5,2,2,3,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+414,7,3,3,4,4,3,2,3,2,1,1,3,1,2,5,2,1,4,9,9,software engineering
+415,5,4,5,5,5,5,5,2,5,1,1,1,2,5,10,8,5,7,3,3,cyber security
+416,7,7,8,9,7,8,6,7,6,1,1,1,1,9,4,4,5,5,8,8,computer vision
+417,2,6,3,8,9,7,10,2,3,3,3,2,2,8,2,6,8,3,7,8,videogame programming
+418,6,3,4,4,4,6,2,3,1,9,10,9,9,3,9,6,0,9,8,7,distributed system an web technology
+419,8,4,4,8,4,8,4,2,2,10,10,10,10,5,7,2,8,9,8,7,web design and development
+420,9,7,7,9,8,9,7,8,9,7,7,7,6,9,6,7,1,7,5,7,computer science
+421,9,4,9,9,3,8,2,9,9,1,0,1,0,9,0,1,1,8,4,7,Artificial intelligence
+422,10,4,9,9,2,5,2,9,9,4,3,3,3,9,3,5,0,7,5,7,data science and analytics
+423,7,2,9,9,2,8,2,8,10,2,2,1,2,10,2,3,1,8,7,7,machine learning
+424,6,7,8,7,7,7,7,2,7,3,3,2,3,9,3,7,7,5,6,7,robotics
+425,5,7,8,9,5,7,5,6,7,2,1,1,1,8,5,7,8,6,8,8,human computer interaction
+426,8,7,9,7,4,8,4,8,8,5,4,4,4,7,7,5,5,9,8,6,management information system
+427,7,5,9,6,3,3,1,4,10,1,0,0,0,7,2,2,4,3,9,1,applied research and innovation
+428,3,5,6,2,5,4,2,3,2,1,0,0,1,3,9,9,0,5,7,8,network management
+429,7,3,5,3,4,4,2,2,6,5,4,4,3,5,9,6,1,7,5,8,cloud computing
+430,7,3,9,7,2,4,3,6,9,2,1,0,1,8,3,2,0,5,8,5,operation research
+431,10,6,4,4,4,4,4,1,3,4,2,2,3,3,10,6,5,9,9,8,enterprise architecture management
+432,7,4,4,3,3,2,1,2,2,1,1,1,1,1,5,2,1,4,9,9,software engineering
+433,6,5,6,3,4,4,3,1,6,2,1,1,1,4,10,8,5,7,3,4,cyber security
+434,7,8,8,7,6,7,5,7,8,2,1,0,1,9,4,3,5,5,8,7,computer vision
+435,4,9,4,7,8,8,9,0,4,4,3,2,3,8,2,7,8,3,7,8,videogame programming
+436,8,4,5,3,3,4,1,2,2,10,10,9,10,2,9,5,0,9,8,7,distributed system an web technology
+437,8,4,5,7,3,8,3,1,3,9,10,10,9,5,8,2,8,9,8,7,web design and development
+438,9,8,8,8,7,8,6,7,10,8,7,7,7,9,8,7,1,7,5,7,computer science
+439,7,4,9,9,3,9,2,9,10,1,2,0,0,9,1,2,1,8,5,7,Artificial intelligence
+440,8,4,10,8,3,6,1,8,8,3,4,3,3,8,3,5,1,7,6,7,data science and analytics
+441,7,2,9,9,3,8,1,8,8,2,2,2,2,10,3,2,2,8,7,6,machine learning
+442,6,6,7,7,6,7,7,3,6,4,3,3,3,7,3,7,8,4,6,7,robotics
+443,6,6,9,9,5,7,5,7,6,1,2,1,1,8,5,7,9,6,8,8,human computer interaction
+444,8,6,9,7,6,8,3,8,7,4,5,4,4,7,7,5,5,9,8,6,management information system
+445,7,4,10,6,3,3,2,5,9,1,1,1,2,7,2,2,4,3,9,1,applied research and innovation
+446,3,5,4,2,5,4,2,3,1,1,1,1,1,3,9,9,0,5,7,8,network management
+447,8,3,5,3,4,5,3,2,5,4,4,4,4,5,9,7,1,7,5,8,cloud computing
+448,7,2,9,7,3,4,3,6,8,1,1,2,1,8,3,2,0,6,8,5,operation research
+449,9,4,4,4,4,4,4,1,2,3,3,4,3,3,10,7,5,9,9,8,enterprise architecture management
+450,7,3,4,3,3,3,1,2,2,1,1,3,1,2,5,2,1,4,9,9,software engineering
+451,5,5,6,4,5,4,4,1,5,1,1,1,1,5,10,8,5,7,3,4,cyber security
+452,7,7,8,8,6,8,5,7,7,1,1,1,1,9,4,4,5,5,8,8,computer vision
+453,2,8,4,7,8,7,8,1,3,3,3,2,3,8,2,6,8,3,7,8,videogame programming
+454,8,3,5,3,3,4,1,2,1,9,10,9,10,2,9,6,0,9,8,7,distributed system an web technology
+455,8,4,5,7,3,7,3,0,2,10,10,10,10,5,7,2,8,9,8,7,web design and development
+456,10,7,8,8,7,8,6,7,9,7,7,8,7,9,9,7,1,7,5,7,computer science
+457,6,2,7,8,3,9,2,9,10,1,1,1,1,9,1,1,1,8,5,7,Artificial intelligence
+458,7,2,8,8,3,6,1,8,8,3,3,3,3,9,3,5,1,7,6,7,data science and analytics
+459,6,1,7,8,3,8,1,8,8,2,2,2,2,10,3,2,1,8,7,7,machine learning
+460,5,6,6,6,7,7,7,3,6,3,3,3,3,8,3,7,8,4,6,7,robotics
+461,5,5,7,8,5,7,5,7,6,1,1,1,1,8,5,7,9,6,8,8,human computer interaction
+462,7,5,7,6,5,8,4,8,7,4,4,4,4,7,7,5,5,9,8,6,management information system
+463,6,3,8,5,3,3,1,5,9,1,1,1,1,7,2,2,4,3,9,1,applied research and innovation
+464,2,4,4,1,5,4,2,3,1,1,1,1,1,3,9,9,0,5,7,8,network management
+465,6,2,3,2,4,4,3,2,5,4,4,4,4,5,9,7,1,7,5,8,cloud computing
+466,6,1,7,6,3,4,3,6,8,1,1,1,1,8,3,2,0,6,8,5,operation research
+467,8,3,2,3,4,4,4,1,2,3,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+468,6,2,2,2,3,3,1,2,2,1,1,1,1,2,5,2,1,4,9,9,software engineering
+469,4,4,4,3,4,4,4,1,5,1,1,1,1,5,10,8,5,7,3,4,cyber security
+470,6,6,6,7,6,7,5,7,7,1,1,1,1,9,4,4,5,5,8,8,computer vision
+471,1,7,2,6,8,7,9,1,3,3,3,2,3,8,2,6,8,3,7,8,videogame programming
+472,7,2,3,2,3,5,1,2,1,9,10,9,10,2,9,6,0,9,8,7,distributed system an web technology
+473,7,3,3,6,3,7,3,1,2,10,10,10,10,5,7,2,8,9,8,7,web design and development
+474,8,6,6,7,7,8,6,7,9,7,7,7,7,9,8,7,1,7,5,7,computer science
+475,8,2,8,7,0,6,3,8,9,0,0,2,2,8,2,2,1,8,4,7,Artificial intelligence
+476,7,2,9,9,0,3,0,9,9,2,2,2,2,10,2,4,0,8,6,7,data science and analytics
+477,8,2,7,9,1,7,0,7,7,1,1,1,1,9,2,1,1,8,7,7,machine learning
+478,5,7,6,5,5,5,5,2,6,3,3,3,3,8,3,7,8,4,6,7,robotics
+479,6,6,8,8,3,6,5,7,6,0,0,0,1,8,5,7,9,6,8,8,human computer interaction
+480,9,5,7,6,2,5,3,8,7,4,4,4,4,7,7,7,5,9,8,6,management information system
+481,5,4,8,5,1,1,0,5,9,0,0,1,0,7,2,2,4,3,9,1,applied research and innovation
+482,4,5,4,1,3,2,2,3,1,1,1,1,1,3,9,9,0,5,7,8,network management
+483,6,3,3,2,2,2,3,1,5,4,4,5,4,5,10,7,1,7,5,8,cloud computing
+484,7,2,7,6,0,2,3,6,8,1,1,1,1,8,2,2,0,6,8,5,operation research
+485,9,3,2,3,2,3,5,0,1,3,3,3,3,3,10,7,5,9,9,8,enterprise architecture management
+486,6,2,2,5,1,1,1,2,2,1,1,1,1,2,5,2,1,4,8,9,software engineering
+487,5,5,5,3,2,2,3,1,5,1,1,1,1,7,9,8,5,7,3,4,cyber security
+488,7,2,6,8,4,5,5,7,7,1,1,1,0,9,4,5,5,5,8,8,computer vision
+489,2,8,3,6,7,5,9,2,3,3,3,2,3,8,2,6,8,3,7,8,videogame programming
+490,9,1,3,2,1,2,2,2,1,8,10,9,10,2,9,4,0,9,8,7,distributed system an web technology
+491,8,3,2,6,1,5,3,0,2,10,10,10,10,5,7,2,8,9,8,7,web design and development
+492,10,8,6,7,5,6,7,7,9,7,7,7,7,9,8,7,2,7,5,7,computer science
+493,8,3,8,9,3,9,0,7,9,0,0,1,2,9,1,1,1,8,5,7,Artificial intelligence
+494,8,4,9,9,3,7,0,6,7,2,2,3,3,9,4,5,1,7,6,7,data science and analytics
+495,7,3,8,9,3,8,0,6,7,1,2,3,2,10,3,2,2,8,7,7,machine learning
+496,6,7,8,7,7,7,5,1,5,2,2,3,3,8,3,7,8,4,6,7,robotics
+497,7,6,8,9,6,7,3,5,5,0,1,1,3,8,5,7,9,6,8,8,human computer interaction
+498,8,7,8,7,5,8,2,6,6,3,3,4,4,7,7,5,5,9,8,6,management information system
+499,7,4,9,6,3,3,0,3,8,0,0,1,1,7,2,2,4,3,9,1,applied research and innovation
+500,3,5,5,2,5,4,0,1,0,0,0,1,1,3,9,9,0,6,7,8,network management
+501,7,3,5,3,4,4,1,1,4,3,3,4,5,5,9,7,1,7,5,8,cloud computing
+502,7,3,9,6,3,4,1,4,7,0,0,2,1,8,3,2,0,6,8,5,operation research
+503,9,4,3,4,4,4,2,0,1,2,2,3,3,3,10,7,5,9,9,8,enterprise architecture management
+504,7,3,3,3,3,2,0,0,1,0,0,3,1,2,5,2,1,4,9,9,software engineering
+505,5,4,5,4,4,4,2,0,4,0,0,1,2,5,10,8,5,7,3,3,cyber security
+506,7,7,8,8,6,7,3,4,5,0,0,1,1,9,4,4,5,5,8,8,computer vision
+507,2,6,3,7,8,6,7,0,2,2,2,2,2,8,2,6,8,3,7,8,videogame programming
+508,6,3,4,3,3,5,0,0,0,8,9,9,9,3,9,6,0,9,8,7,distributed system an web technology
+509,8,4,4,7,3,7,1,0,1,9,9,10,10,5,7,2,8,9,8,7,web design and development
+510,9,7,7,8,7,8,5,6,9,7,7,6,5,8,5,7,1,7,5,7,computer science
+511,8,3,8,9,3,8,2,9,9,2,0,0,0,8,0,1,1,8,4,7,Artificial intelligence
+512,9,3,8,9,2,5,2,9,7,2,3,2,2,8,2,5,0,7,5,7,data science and analytics
+513,6,1,8,9,2,8,2,8,8,0,2,0,1,9,1,3,1,8,7,7,machine learning
+514,5,6,7,7,7,7,7,2,5,1,3,1,2,8,2,7,7,5,6,7,robotics
+515,4,6,7,9,5,7,5,6,5,0,1,0,0,7,4,7,8,6,8,8,human computer interaction
+516,7,6,8,7,4,8,4,8,6,3,4,3,3,6,6,5,5,9,8,6,management information system
+517,6,4,8,6,3,3,1,4,8,2,0,0,0,6,1,2,4,3,9,1,applied research and innovation
+518,2,4,5,2,5,4,2,3,0,2,0,0,0,2,8,9,0,5,7,8,network management
+519,6,2,4,3,4,4,2,2,4,3,4,3,2,4,8,6,1,7,5,8,cloud computing
+520,6,2,8,7,2,4,3,6,7,0,1,0,0,7,2,2,0,5,8,5,operation research
+521,9,5,3,4,4,4,4,1,1,2,2,1,2,2,9,6,5,9,9,8,enterprise architecture management
+522,6,3,3,3,3,2,1,2,0,2,1,0,0,0,4,2,1,4,9,9,software engineering
+523,5,4,5,3,4,4,3,1,4,0,1,0,0,3,9,8,5,7,3,4,cyber security
+524,6,7,7,7,6,7,5,7,6,0,1,0,0,8,3,3,5,5,8,7,computer vision
+525,3,8,3,7,8,8,9,0,2,2,3,1,2,7,1,7,8,3,7,8,videogame programming
+526,7,3,4,3,3,4,1,2,0,8,10,8,9,1,8,5,0,9,8,7,distributed system an web technology
+527,7,3,4,7,3,8,3,1,1,9,10,9,8,4,7,2,8,9,8,7,web design and development
+528,8,7,7,8,7,8,6,7,8,6,7,6,6,8,7,7,1,7,5,7,computer science
+529,7,4,8,9,3,9,2,9,10,1,1,2,0,9,1,1,0,7,4,7,Artificial intelligence
+530,8,4,9,8,3,6,1,8,8,3,3,2,3,8,3,4,0,6,5,7,data science and analytics
+531,7,2,8,9,3,8,1,8,8,2,1,1,2,10,3,1,1,7,6,6,machine learning
+532,6,6,6,7,6,7,7,3,6,4,2,2,3,7,3,6,7,3,5,7,robotics
+533,6,6,8,9,5,7,5,7,6,1,1,0,1,8,5,6,8,5,7,8,human computer interaction
+534,8,6,8,7,6,8,3,8,7,4,4,3,4,7,7,4,4,8,7,6,management information system
+535,7,4,9,6,3,3,2,5,9,1,0,0,2,7,2,1,3,2,8,1,applied research and innovation
+536,3,5,3,2,5,4,2,3,1,1,0,0,1,3,9,8,0,4,6,8,network management
+537,8,3,4,3,4,5,3,2,5,4,3,3,4,5,9,6,0,6,4,8,cloud computing
+538,7,2,8,7,3,4,3,6,8,1,0,1,1,8,3,1,0,5,7,5,operation research
+539,9,4,3,4,4,4,4,1,2,3,2,3,3,3,10,6,4,8,8,8,enterprise architecture management
+540,7,3,3,3,3,3,1,2,2,1,0,2,1,2,5,1,0,3,8,9,software engineering
+541,5,5,5,4,5,4,4,1,5,1,0,0,1,5,10,7,4,6,2,4,cyber security
+542,7,7,7,8,6,8,5,7,7,1,0,0,1,9,4,3,4,4,7,8,computer vision
+543,2,8,3,7,8,7,8,1,3,3,2,1,3,8,2,5,7,2,6,8,videogame programming
+544,8,3,4,3,3,4,1,2,1,9,9,8,10,2,9,5,0,8,7,7,distributed system an web technology
+545,8,4,4,7,3,7,3,0,2,10,9,9,10,5,7,1,7,8,7,7,web design and development
+546,10,7,7,8,7,8,6,7,9,7,6,7,7,9,9,6,0,6,4,7,computer science
